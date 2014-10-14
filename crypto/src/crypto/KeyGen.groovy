@@ -8,6 +8,8 @@ import org.apache.commons.codec.binary.*
 
 
 class KeyGen {
+	
+	
 	private SecretKey key;
 	private Cipher ecipher;
 	private Cipher dcipher;
